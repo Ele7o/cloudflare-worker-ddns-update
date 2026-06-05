@@ -8,5 +8,11 @@
       "binding": "KV",
       "id": "KV_NAMESPACE_ID_PLACEHOLDER"
     }
-  ]
+  ],
+  "observability": {
+    "logs": {
+      "enabled": true,
+      "invocation_logs": true
+    }
+  }
 }
