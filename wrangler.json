@@ -17,5 +17,8 @@
     "traces": {
       "enabled": false
     }
+  },
+  "placement": {
+    "mode": "smart"
   }
 }
