@@ -2,7 +2,7 @@
   "name": "ddns-update",
   "main": "worker.js",
   "compatibility_date": "2024-01-01",
-  "workers_dev": true,
+  "workers_dev": false,
   "kv_namespaces": [
     {
       "binding": "KV",
