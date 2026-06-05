@@ -6,7 +6,7 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "DDNS_CACHE"
+      "id": "KV_NAMESPACE_ID_PLACEHOLDER"
     }
   ]
 }
